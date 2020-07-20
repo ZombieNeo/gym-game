@@ -119,6 +119,17 @@
             }
         },
         {
+<<<<<<< Updated upstream
+=======
+            "Key": "60250f08-c912-4d63-a440-5e48757ee9e4",
+            "Value": {
+                "id": "39f9d50a-ea16-4649-a4f4-88c520105809",
+                "resourcePath": "objects\\player\\player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+>>>>>>> Stashed changes
             "Key": "62f4b0b6-d14e-4ac5-b233-8e8fb57b0da1",
             "Value": {
                 "id": "492413a1-f554-4596-b584-ad45943e4bbe",
@@ -127,6 +138,17 @@
             }
         },
         {
+<<<<<<< Updated upstream
+=======
+            "Key": "637e7198-be57-4cef-96c7-81880a023f47",
+            "Value": {
+                "id": "b8f90ab1-2ca1-46ae-848d-13c275607f75",
+                "resourcePath": "objects\\owall\\owall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+>>>>>>> Stashed changes
             "Key": "67c93048-1ac0-4129-b6d5-085d3f637d5c",
             "Value": {
                 "id": "00522379-66b1-41f6-952a-b3716f01a9f9",
@@ -183,6 +205,17 @@
             }
         },
         {
+<<<<<<< Updated upstream
+=======
+            "Key": "f54edf15-e4e5-441d-b526-6574ab67d312",
+            "Value": {
+                "id": "ff22367f-4c00-4673-8cef-d41c76e85dbb",
+                "resourcePath": "sprites\\man\\man.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+>>>>>>> Stashed changes
             "Key": "fe0a2d79-956d-4b6b-9751-b10aafc7a25b",
             "Value": {
                 "id": "0f9f3ab9-9895-4cb5-959a-22f0db466c45",
